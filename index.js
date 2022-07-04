@@ -58,7 +58,7 @@ function autoplay() {
     }, 5000)
 };
 
-// autoplay();
+autoplay();
 
 
 
