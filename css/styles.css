@@ -576,7 +576,7 @@ img#c{
         margin-bottom: 0;
     }
 }
-@media (max-width:400px) {
+@media (max-width:500px) {
     body{
         height: fit-content;
     }
